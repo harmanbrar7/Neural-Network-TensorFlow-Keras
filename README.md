@@ -1,6 +1,7 @@
 # Neural-Network-TensorFlow-Keras
 Building a neural network using TF, Keras &amp; NumPy (multiple examples)
 
+# Instructions
 
 run the neurons file first, then coffee roasting and then coffee roasting numpy
 
